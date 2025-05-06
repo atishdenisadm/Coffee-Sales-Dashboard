@@ -25,3 +25,6 @@ Additional Features:
 + Interactive dashboard layout for easy navigation
 + Dynamic data exploration with real-time filtering
 + Clear segmentation to track key performance indicators and trends
+
+Demo Dashboard  
+How the dashboard looks like - ![Dashboard Preview](https://github.com/atishdenisadm/Coffee-Sales-Dashboard/blob/main/Sales%20Dashboard.png)
